@@ -1,3 +1,7 @@
+# venv
+search-pdf
+LaMini-T5-738M/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
